@@ -58,6 +58,6 @@ echo htmlspecialchars($data['isi'], ENT_QUOTES, 'UTF-8');
 <img width="1478" height="795" alt="Screenshot 2026-04-28 174856" src="https://github.com/user-attachments/assets/b48240a3-28fb-4d03-9bc4-6cc1131e5cc9" />
 
 
-
+Link Artikel: https://medium.com/@marsyanabila293/eksperimen-cross-site-scripting-xss-pada-form-komentar-website-sederhana-de88775e34d1
 
 
